@@ -1,7 +1,7 @@
 ### Clone and Initialize
 
 ```
-$ git clone git@github.com:npu-compiler/npu-mlir.git
+$ git clone https://github.com/dudgus1727/npu-mlir.git
 $ cd npu-mlir
 $ git submodule update --init
 ```
